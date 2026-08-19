@@ -82,7 +82,7 @@ The interactive dashboard includes:
 
 ## Dashboard Preview
 
-![Coffee Shop Sales Dashboard](coffee-shop-dashboard.png)
+![Coffee Shop Sales Dashboard](Coffee-Shop-Sales-Dashboard.png)
 
 ## Files
 
